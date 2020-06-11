@@ -1,1 +1,1 @@
-console.log("mod3");
+console.log("mod3.mjs");

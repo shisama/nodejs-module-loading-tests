@@ -5,5 +5,5 @@ const fn = async () => {
 }
 
 fn()
-console.log("main")
+console.log("esm/main.mjs")
 

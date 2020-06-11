@@ -1,14 +1,14 @@
 # Experiments if CJS loads modules synchronously
 
-ES Modules (ESM) loads modules asynchronously.
+CommonJS loads modules synchronously.
 
 The results to run main.js is following.
 The same result will output however many times main.js runs.
 
 ```
-main
-mod1
-mod2
-mod3
-read
+mod1.js
+mod2.js
+mod3.js
+cjs/main.js
+read a file asynchronously in mod1.js
 ```

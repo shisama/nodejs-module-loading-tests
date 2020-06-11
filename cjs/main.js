@@ -5,4 +5,4 @@ const fn = () => {
 }
 
 fn();
-console.log("main");
+console.log("cjs/main.js");
